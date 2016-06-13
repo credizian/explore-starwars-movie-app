@@ -1,0 +1,16 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "a basic movie for starwars fans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keshav Malani",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2"
+  }
+}
